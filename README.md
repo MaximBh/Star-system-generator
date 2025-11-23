@@ -94,6 +94,10 @@ pip install -r requirements.txt
 
 (only PyQt6 is required)
 
+# Build EXE
+
+pyinstaller main.py --noconsole --onefile --name StarSystemGenerator
+
 # Run:
 python main.py or star_system_generator.exe file
 
@@ -175,6 +179,10 @@ planets — данные о планетах каждой системы
 1. Установить Python 3.10+
 2. Установить зависимости:
 pip install -r requirements.txt
+
+# Сборка EXE
+
+pyinstaller main.py --noconsole --onefile --name StarSystemGenerator
 
 # Запустить:
 python main.py или star_system_generator.exe файл
