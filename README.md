@@ -1,8 +1,6 @@
 # Star-system-generator
 PyQt6 Application for Generating, Visualizing and Managing Star Systems
 
-Overview
-
 Star System Generator is an interactive PyQt6 application that visualizes star systems, allows generation of random planetary systems, displays detailed information about each planet, stores systems in an SQLite database, and supports import/export using CSV files.
 
 The visualization includes moving planets, orbits, satellites, and a clickable central star.
